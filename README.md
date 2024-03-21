@@ -45,10 +45,10 @@
 Задание 2
 Что нужно сделать:
 
-![Image alt]()
-![Image alt]()
-![Image alt]()
-![Image alt]()
+![Image alt](https://github.com/niko0la/netology/blob/main/2-1.png)
+![Image alt](https://github.com/niko0la/netology/blob/main/2-2.png)
+![Image alt](https://github.com/niko0la/netology/blob/main/2-3.png)
+![Image alt](https://github.com/niko0la/netology/blob/main/2-4.png)
 
 Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.
 Добавьте файл .gitignore в следующий коммит git add....
