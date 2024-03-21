@@ -36,6 +36,10 @@
 коммит задание 1   [](https://github.com/niko0la/netology/commit/67d1bb67be43733e45eb7139fa77e9f745e9e751)
 
 ![Image alt](https://github.com/niko0la/netology/blob/main/1.png)
+![Image alt](https://github.com/niko0la/netology/blob/main/2.png)
+![Image alt](https://github.com/niko0la/netology/blob/main/3.png)
+![Image alt](https://github.com/niko0la/netology/blob/main/4.png)
+![Image alt](https://github.com/niko0la/netology/blob/main/5.png)
 
 
 Задание 2
