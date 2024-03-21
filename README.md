@@ -35,6 +35,8 @@
 
 коммит задание 1   [](https://github.com/niko0la/netology/commit/67d1bb67be43733e45eb7139fa77e9f745e9e751)
 
+![Image alt](https://github.com/github.com/niko0la/netology/blob/main/1.png)
+
 
 Задание 2
 Что нужно сделать:
