@@ -1,6 +1,6 @@
 # netology
 
-Домашнее задание к занятию «Git»
+Домашнее задание к занятию «Git Сергеев Николай»
 
 Инструкция по выполнению домашнего задания
 Сделайте fork репозитория c шаблоном решения к себе в GitHub и переименуйте его по названию или номеру занятия, например, https://github.com/имя-вашего-репозитория/gitlab-hw или https://github.com/имя-вашего-репозитория/8-03-hw.
@@ -35,7 +35,7 @@
 
 коммит задание 1   [](https://github.com/niko0la/netology/commit/67d1bb67be43733e45eb7139fa77e9f745e9e751)
 
-![Image alt](https://github.com/github.com/niko0la/netology/blob/main/1.png)
+![Image alt](https://github.com/niko0la/netology/blob/main/1.png)
 
 
 Задание 2
