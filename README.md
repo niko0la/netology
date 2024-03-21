@@ -34,8 +34,7 @@
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 коммит задание 1   
-[](https://github.com/niko0la/netology/commit/67d1bb67be43733e45eb7139fa77e9f745e9e751)
-
+[коммит](https://github.com/niko0la/netology/commit/67d1bb67be43733e45eb7139fa77e9f745e9e751)
 ![Image alt](https://github.com/niko0la/netology/blob/main/1.png)
 ![Image alt](https://github.com/niko0la/netology/blob/main/2.png)
 ![Image alt](https://github.com/niko0la/netology/blob/main/3.png)
@@ -57,7 +56,7 @@
 Сделайте коммит и пуш.
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 коммит задание 2   
-[](https://github.com/niko0la/netology/commit/98517ff8c637723ffb05333dfc2e0975c7da84bc)
+[коммит](https://github.com/niko0la/netology/commit/98517ff8c637723ffb05333dfc2e0975c7da84bc)
 
 Задание 3
 Что нужно сделать:
