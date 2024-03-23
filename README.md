@@ -69,7 +69,7 @@
 Сделайте мердж dev ветки в основную с помощью git merge dev. Напишите осмысленное сообщение в появившееся окно комита.
 Сделайте пуш в основной ветке.
 Не удаляйте ветку dev.
-В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
+В качестве ответа прикрепите ссылку на граф коммитов [коммит](https://github.com/niko0la/netology/commit/b7eadb5f6a86d61f43cfae7b51b47197f0f0b2d5) в ваш md-файл с решением.
 
 Ваш граф комитов должен выглядеть аналогично скриншоту:
-![Image alt](https://github.com/niko0la/netology/blob/main/3-5.png)
+![Image alt](https://github.com/niko0la/netology/blob/main/Grfikcoomt3.png)
